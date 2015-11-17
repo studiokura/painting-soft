@@ -1,4 +1,4 @@
 painting-soft
 =============
 
-Painting soft build with processing
+Painting soft build with p5.js
